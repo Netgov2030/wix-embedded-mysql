@@ -1,4 +1,4 @@
-Copyright (c) 2015, Wix.com Ltd.
+Copyright (c) 2015, netgov.io Ltd.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
